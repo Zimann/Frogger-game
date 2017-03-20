@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+/*---Disable vertical scroll to keep screen locked in place--*/
+
+    html {
+        overflow-y: hidden;
+}
