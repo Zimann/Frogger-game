@@ -1,5 +1,5 @@
 # getting started
-- The game is accessed by opening the index.html file.
+- The game is accessed by opening the index.html file or directly online at : https://zimann.github.io/frogger-game.github.io/
 - We will start with the player in the middle of the grass section and the purpose of the game is to get to the water while avoiding the bugs. Once we do that, the player's position will be reset.
 
 ## keys to use for movement
